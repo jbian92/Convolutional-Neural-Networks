@@ -1,4 +1,7 @@
 # Convolutional Neural Networks (CNN)
+This repository includes two CNN models created during Execute Big's Tech Roulette Week 6.
+1. A model that can identify single digits (0-9) from the MNIST dataset of tens of thousands of handwritten images
+2. A model that can differentiate between cat and dog faces, using the [Kaggle Animal Faces Dataset](https://www.kaggle.com/andrewmvd/animal-faces)
 
 ## What are CNNs?
 - Neural Networks are a supervised learning technique that vaguely mimics the human brain. 
