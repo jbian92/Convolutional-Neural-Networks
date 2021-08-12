@@ -14,3 +14,4 @@
 ## Tech Roulette Week 6
 - Learned about CNNs and CNN architecture (e.g. convolution layers, pooling layers, fully connected layers, dropout layers)
 - Built a CNN using the MNIST ("Modified National Institute of Standards and Technology") dataset, which contains thousands of handwritten images of single digits from 0 to 9
+- Created a model that can predict if an image is a cat or a dog
